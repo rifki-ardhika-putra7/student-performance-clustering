@@ -1,0 +1,8 @@
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+venv/
+.env
+# Kalau dataset (excel/csv) privasi atau gede, uncomment baris bawah:
+# *.csv
+# *.xlsx
