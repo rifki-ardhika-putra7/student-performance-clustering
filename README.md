@@ -4,7 +4,6 @@
 > *Strategi personalisasi pendidikan berbasis data.*
 
 ![Cluster Visualization]
-*(Ganti link di atas dengan screenshot grafik hasil clustering lu, misal Scatter Plot warna-warni)*
 
 ## 🚀 Overview
 Proyek ini bertujuan untuk membantu pihak sekolah dalam memetakan profil siswa. Dengan menggunakan algoritma **K-Means Clustering**, sistem mengelompokkan siswa ke dalam beberapa segmen berdasarkan nilai rapor (Akademik) dan prestasi ekstrakurikuler (Non-Akademik).
